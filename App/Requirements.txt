@@ -1,0 +1,9 @@
+we are producing a tv series and require a banking type app cloned/created that represents a bank in the UK and we require the following:
+
+- Same splash screen
+- FaceID function
+- Same Home Screen
+- Ability to put the app into edit mode, where we can change the balances and sort code and account number and when we click on save it puts the app back into app mode
+- Ability to add PAYEEs and import these contacts into the “make a payment” section
+- Ability to edit the transactions
+- Calculations that when making a pretend payment it minus that balance
