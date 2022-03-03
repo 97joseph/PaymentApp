@@ -4,12 +4,6 @@
 
 we are producing a tv series and require a banking type app cloned/created that represents a bank in the UK and we require the following:
 
-
-
-https://user-images.githubusercontent.com/33089347/156643163-7d63b1e0-e79b-438a-a381-50ee9a273c77.MOV
-
-
-
 - Same splash screen
 - FaceID function
 - Same Home Screen
@@ -17,6 +11,9 @@ https://user-images.githubusercontent.com/33089347/156643163-7d63b1e0-e79b-438a-
 - Ability to add PAYEEs and import these contacts into the “make a payment” section
 - Ability to edit the transactions
 - Calculations that when making a pretend payment it minus that balance![Screensho](4F6C1C6B-BC62-4A71-97D7-4FDFA734A352.jpeg)
+
+https://user-images.githubusercontent.com/33089347/156643163-7d63b1e0-e79b-438a-a381-50ee9a273c77.MOV
+
 
 Page Calls
 
